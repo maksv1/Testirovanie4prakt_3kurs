@@ -1,0 +1,7 @@
+C:\Users\maks\source\repos\Poisk\Poisk\bin\Debug\Poisk.exe.config
+C:\Users\maks\source\repos\Poisk\Poisk\bin\Debug\Poisk.exe
+C:\Users\maks\source\repos\Poisk\Poisk\bin\Debug\Poisk.pdb
+C:\Users\maks\source\repos\Poisk\Poisk\obj\Debug\Poisk.csproj.AssemblyReference.cache
+C:\Users\maks\source\repos\Poisk\Poisk\obj\Debug\Poisk.csproj.CoreCompileInputs.cache
+C:\Users\maks\source\repos\Poisk\Poisk\obj\Debug\Poisk.exe
+C:\Users\maks\source\repos\Poisk\Poisk\obj\Debug\Poisk.pdb

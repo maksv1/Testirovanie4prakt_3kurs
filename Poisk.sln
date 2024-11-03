@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Poisk", "Poisk\Poisk.csproj", "{EE953D40-DFAC-4C58-A828-AB702D3D0175}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Poisk.Tests", "Poisk.Tests\Poisk.Tests.csproj", "{C210ED49-A609-49C8-BBE0-5A4D64E99130}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE953D40-DFAC-4C58-A828-AB702D3D0175}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE953D40-DFAC-4C58-A828-AB702D3D0175}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE953D40-DFAC-4C58-A828-AB702D3D0175}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE953D40-DFAC-4C58-A828-AB702D3D0175}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C210ED49-A609-49C8-BBE0-5A4D64E99130}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C210ED49-A609-49C8-BBE0-5A4D64E99130}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C210ED49-A609-49C8-BBE0-5A4D64E99130}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C210ED49-A609-49C8-BBE0-5A4D64E99130}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC3B406F-1E2D-4BA3-B845-655D23C4E455}
+	EndGlobalSection
+EndGlobal

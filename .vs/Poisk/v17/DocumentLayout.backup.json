@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maks\\source\\repos\\Poisk\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE953D40-DFAC-4C58-A828-AB702D3D0175}|Poisk\\Poisk.csproj|c:\\users\\maks\\source\\repos\\poisk\\poisk\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE953D40-DFAC-4C58-A828-AB702D3D0175}|Poisk\\Poisk.csproj|solutionrelative:poisk\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE953D40-DFAC-4C58-A828-AB702D3D0175}|Poisk\\Poisk.csproj|c:\\users\\maks\\source\\repos\\poisk\\poisk\\filedataobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE953D40-DFAC-4C58-A828-AB702D3D0175}|Poisk\\Poisk.csproj|solutionrelative:poisk\\filedataobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE953D40-DFAC-4C58-A828-AB702D3D0175}|Poisk\\Poisk.csproj|c:\\users\\maks\\source\\repos\\poisk\\poisk\\testdataobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE953D40-DFAC-4C58-A828-AB702D3D0175}|Poisk\\Poisk.csproj|solutionrelative:poisk\\testdataobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C210ED49-A609-49C8-BBE0-5A4D64E99130}|Poisk.Tests\\Poisk.Tests.csproj|c:\\users\\maks\\source\\repos\\poisk\\poisk.tests\\filemanagertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C210ED49-A609-49C8-BBE0-5A4D64E99130}|Poisk.Tests\\Poisk.Tests.csproj|solutionrelative:poisk.tests\\filemanagertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE953D40-DFAC-4C58-A828-AB702D3D0175}|Poisk\\Poisk.csproj|c:\\users\\maks\\source\\repos\\poisk\\poisk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE953D40-DFAC-4C58-A828-AB702D3D0175}|Poisk\\Poisk.csproj|solutionrelative:poisk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FileManagerTests.cs",
+              "DocumentMoniker": "C:\\Users\\maks\\source\\repos\\Poisk\\Poisk.Tests\\FileManagerTests.cs",
+              "RelativeDocumentMoniker": "Poisk.Tests\\FileManagerTests.cs",
+              "ToolTip": "C:\\Users\\maks\\source\\repos\\Poisk\\Poisk.Tests\\FileManagerTests.cs",
+              "RelativeToolTip": "Poisk.Tests\\FileManagerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T20:45:51.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestDataObject.cs",
+              "DocumentMoniker": "C:\\Users\\maks\\source\\repos\\Poisk\\Poisk\\TestDataObject.cs",
+              "RelativeDocumentMoniker": "Poisk\\TestDataObject.cs",
+              "ToolTip": "C:\\Users\\maks\\source\\repos\\Poisk\\Poisk\\TestDataObject.cs",
+              "RelativeToolTip": "Poisk\\TestDataObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T20:44:26.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileDataObject.cs",
+              "DocumentMoniker": "C:\\Users\\maks\\source\\repos\\Poisk\\Poisk\\FileDataObject.cs",
+              "RelativeDocumentMoniker": "Poisk\\FileDataObject.cs",
+              "ToolTip": "C:\\Users\\maks\\source\\repos\\Poisk\\Poisk\\FileDataObject.cs",
+              "RelativeToolTip": "Poisk\\FileDataObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T20:40:20.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileManager.cs",
+              "DocumentMoniker": "C:\\Users\\maks\\source\\repos\\Poisk\\Poisk\\FileManager.cs",
+              "RelativeDocumentMoniker": "Poisk\\FileManager.cs",
+              "ToolTip": "C:\\Users\\maks\\source\\repos\\Poisk\\Poisk\\FileManager.cs*",
+              "RelativeToolTip": "Poisk\\FileManager.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T20:43:17.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maks\\source\\repos\\Poisk\\Poisk\\Program.cs",
+              "RelativeDocumentMoniker": "Poisk\\Program.cs",
+              "ToolTip": "C:\\Users\\maks\\source\\repos\\Poisk\\Poisk\\Program.cs",
+              "RelativeToolTip": "Poisk\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T20:39:54.423Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
