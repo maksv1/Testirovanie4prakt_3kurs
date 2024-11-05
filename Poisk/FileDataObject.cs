@@ -11,7 +11,7 @@ namespace Poisk
     {
         public List<string> GetFiles()
         {
-            string path = "C:\\Users\\Maks\\source\\repos\\Poisk"; // Путь для поиска файлов
+            string path = "C:\\Users\\mvino\\source\\repos\\Testirovanie4prakt_3kurs"; // Путь для поиска файлов
 
             List<string> list = new List<string>();
             DirectoryInfo d = new DirectoryInfo(path);

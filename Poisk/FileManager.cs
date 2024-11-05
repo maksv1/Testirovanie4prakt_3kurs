@@ -10,8 +10,8 @@ namespace Poisk
     {
         public int CountTxtFiles()
         {
-            FileDataObject obj = new FileDataObject(); // Класс для работы с файловой системой
-            //TestDataObject obj = new TestDataObject(); // Заглушка для тестирования
+            //FileDataObject obj = new FileDataObject(); // Класс для работы с файловой системой
+            TestDataObject obj = new TestDataObject(); // Заглушка для тестирования
 
             List<string> files = obj.GetFiles();
             int txtFileCount = 0;

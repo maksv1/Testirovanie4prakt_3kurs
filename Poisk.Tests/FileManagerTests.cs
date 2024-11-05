@@ -1,5 +1,4 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using System;
 
 namespace Poisk.Tests
 {
@@ -9,19 +8,12 @@ namespace Poisk.Tests
         [TestMethod]
         public void CountTxtFiles_WithTestData_ReturnsCorrectCount()
         {
-            var manager = new FileManager();
-            var testDataObject = new TestDataObject();
+            // Передаем TestDataObject, чтобы использовать тестовые данные
+            var fileManager = new FileManager();
 
-            int txtFileCount = 0;
-            foreach (var file in testDataObject.GetFiles())
-            {
-                if (file.EndsWith(".txt"))
-                {
-                    txtFileCount++;
-                }
-            }
+            int txtFileCount = fileManager.CountTxtFiles();
 
-            Assert.AreEqual(3, txtFileCount); // Ожидаем 3 файла txt в тестовых данных
+            Assert.AreEqual(3, txtFileCount); // Ожидаем 3 файла с расширением .txt
         }
     }
 }

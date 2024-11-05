@@ -5,3 +5,10 @@ C:\Users\maks\source\repos\Poisk\Poisk\obj\Debug\Poisk.csproj.AssemblyReference.
 C:\Users\maks\source\repos\Poisk\Poisk\obj\Debug\Poisk.csproj.CoreCompileInputs.cache
 C:\Users\maks\source\repos\Poisk\Poisk\obj\Debug\Poisk.exe
 C:\Users\maks\source\repos\Poisk\Poisk\obj\Debug\Poisk.pdb
+C:\Users\mvino\Source\Repos\Testirovanie4prakt_3kurs\Poisk\bin\Debug\Poisk.exe.config
+C:\Users\mvino\Source\Repos\Testirovanie4prakt_3kurs\Poisk\bin\Debug\Poisk.exe
+C:\Users\mvino\Source\Repos\Testirovanie4prakt_3kurs\Poisk\bin\Debug\Poisk.pdb
+C:\Users\mvino\Source\Repos\Testirovanie4prakt_3kurs\Poisk\obj\Debug\Poisk.csproj.AssemblyReference.cache
+C:\Users\mvino\Source\Repos\Testirovanie4prakt_3kurs\Poisk\obj\Debug\Poisk.csproj.CoreCompileInputs.cache
+C:\Users\mvino\Source\Repos\Testirovanie4prakt_3kurs\Poisk\obj\Debug\Poisk.exe
+C:\Users\mvino\Source\Repos\Testirovanie4prakt_3kurs\Poisk\obj\Debug\Poisk.pdb
